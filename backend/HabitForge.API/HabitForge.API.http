@@ -1,0 +1,12 @@
+### 1. Obtener todos los hábitos (Prueba del Verbo GET)
+# Nota: Cambia el puerto 5157 por el puerto real que te arroje la terminal
+GET http://localhost:5157/api/habitos
+Accept: application/json
+
+### 2. Crear un nuevo hábito (Prueba del Verbo POST)
+POST http://localhost:5157/api/habitos
+Content-Type: application/json
+
+{
+  "nombre": "Estudiar Arquitectura Limpia y Event Sourcing"
+}
