@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HabitForge.API/HabitForge.API.csproj" />
+  <Project Path="HabitForge.Application/HabitForge.Application.csproj" />
+  <Project Path="HabitForge.Domain/HabitForge.Domain.csproj" />
+  <Project Path="HabitForge.Infrastructure/HabitForge.Infrastructure.csproj" />
+</Solution>

@@ -1,6 +1,6 @@
 namespace HabitForge.Application.Features.Habitos.DTOs;
 
-public class CreateHabitoRequest
+public class CreateHabitoRequestDto
 {
     public string Nombre { get; set; } = string.Empty;
 }
